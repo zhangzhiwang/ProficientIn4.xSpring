@@ -1,4 +1,4 @@
-# ProficientIn4.xSpring
+# ProficientIn4.xSpring_Chapter2
 《精通Spring 4.x 企业应用开发实战》学习代码——第2章
 
 说明：
